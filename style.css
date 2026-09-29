@@ -1,0 +1,8 @@
+body { margin: 0; font-family: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', system-ui, sans-serif; line-height: 1.8; color: #1f1d1a; background: #f6f4ef; }
+main { max-width: 720px; margin: 0 auto; padding: 40px 20px 60px; }
+h1 { font-size: 26px; margin: 0 0 8px; }
+h2 { font-size: 18px; margin: 32px 0 8px; }
+p, li { font-size: 15px; }
+nav { margin-top: 32px; padding-top: 16px; border-top: 1px solid #e4dfd5; font-size: 14px; }
+nav a { margin-right: 16px; color: #2b8a6e; }
+.muted { color: #6b665e; font-size: 13px; }
